@@ -1,0 +1,1 @@
+This sounds are extracted from filtering the frequency spectrum of 'NonOverlapping.wav'. This process may indtroduce some frequency components from other instruments as they are extracted from overlapped signal.

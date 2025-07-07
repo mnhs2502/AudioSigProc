@@ -1,0 +1,1 @@
+This sounds of different instrument are splitted from the time domain of 'NonOverlapping.wav'. This sounds are seperated to analize the exact frequency spectrum of different instrument since the overall frequency spectrum of 'NonOverlapping.wav' doesn't garuntee the nonoverlapping frequency ranges.
